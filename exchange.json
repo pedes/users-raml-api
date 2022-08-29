@@ -1,1 +1,1 @@
-{"main":"users-api.raml","name":"Users API","classifier":"raml","tags":["training"],"groupId":"16bdf842-1661-4901-a415-01b5b9601d0a","assetId":"users-api-raml","version":"1.0.1","apiVersion":"v1"}
+{"main":"users-api.raml","name":"Users API","classifier":"raml","tags":["training"],"groupId":"16bdf842-1661-4901-a415-01b5b9601d0a","assetId":"users-api-raml","version":"1.0.1","apiVersion":"v1","dependencies":[{"groupId":"68ef9520-24e9-4cf2-b2f5-620025690913","assetId":"https-enforcement","version":"1.0.0","scope":"validation"}]}
